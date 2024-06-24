@@ -1,0 +1,8 @@
+###
+POST http://localhost:3000/ras
+Content-Type: application/json
+
+{
+    "id_ras" : "R01",
+    "nama_ras": "Persia"
+}
